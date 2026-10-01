@@ -1,0 +1,27 @@
+{
+  "name": "english-zone",
+  "version": "1.0.0",
+  "description": "منصه تعليميه لمستر عبدالرحمن محمد لتعليم اللغه الانجليزيه",
+  "main": "index.js",
+  "scripts": {
+    "dev": "npm --prefix english-zone run dev",
+    "build": "npm --prefix english-zone run build",
+    "start": "npm --prefix english-zone run start",
+    "lint": "npm --prefix english-zone run lint",
+    "provision:teacher": "npm --prefix english-zone run provision:teacher",
+    "create:access-code": "npm --prefix english-zone run create:access-code",
+    "test": "npm --prefix english-zone run lint"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/habibaelbadwy616-ux/English-zone-mr-abdelrahman-mohamed.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/habibaelbadwy616-ux/English-zone-mr-abdelrahman-mohamed/issues"
+  },
+  "homepage": "https://github.com/habibaelbadwy616-ux/English-zone-mr-abdelrahman-mohamed#readme"
+}
